@@ -25,7 +25,7 @@ Analisar o comportamento das três ações ao longo de 12 meses, comparando rent
 
 ## Principais resultados
 
-A BBSE3 apresentou a maior rentabilidade acumulada, de aproximadamente 24,35%, e a menor volatilidade anualizada, de 22,83%.
+A BBSE3 apresentou a maior rentabilidade acumulada, de aproximadamente 24,39%, e a menor volatilidade anualizada, de 22,83%.
 
 A ITSA4 registrou rentabilidade de aproximadamente 23,97%, mas apresentou maior volatilidade, de 31,20%.
 
@@ -37,4 +37,4 @@ Entre os três ativos analisados, a BBSE3 apresentou o resultado mais interessan
 
 ## Estrutura do projeto
 
-- `analise_comparativa_ac
+- `analise_comparativa_acoes.ipynb`: notebook com a coleta, exploração, análise e visualização dos dados.
