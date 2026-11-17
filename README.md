@@ -1,3 +1,4 @@
+
 # Análise Comparativa de Ações
 
 Projeto de análise de dados desenvolvido com Python, utilizando Pandas e yfinance para comparar o desempenho histórico das ações BBSE3, ITSA4 e VALE3.
